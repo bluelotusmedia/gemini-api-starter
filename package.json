@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.2.0",
+    "dotenv": "^16.4.2"
+  },
+  "name": "gemini-api-starter",
+  "version": "1.0.0",
+  "main": "gemini.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node gemini.js",
+    "start": "node gemini.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
