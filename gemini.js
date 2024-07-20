@@ -1,4 +1,4 @@
-// Replace 'YOUR_GEMINI_API_KEY' with your actual Gemini API key
+// Replace 'GEMINI_API_KEY' with your actual Gemini API key
 require("dotenv").config();
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
